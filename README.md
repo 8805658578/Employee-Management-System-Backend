@@ -85,7 +85,7 @@ src
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/employee-management-system.git
+git clone https://github.com/8805658578/employee-management-system.git
 ```
 
 Move into the project directory.
@@ -198,21 +198,6 @@ Run tests using:
 ```bash
 mvn test
 ```
-
----
-
-# 📸 Screenshots
-
-Add screenshots here after deployment.
-
-```
-docs/
- ├── login.png
- ├── swagger.png
- ├── employees.png
- └── dashboard.png
-```
-
 ---
 
 # 🚀 Future Improvements
